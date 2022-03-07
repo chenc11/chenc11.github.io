@@ -1,4 +1,4 @@
-name: DataViz
+name: example-environment
 channels:
   - conda-forge
 dependencies:
