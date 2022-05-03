@@ -1,0 +1,10 @@
+name: DataViz
+channels:
+  - conda-forge
+dependencies:
+  - bqplot=0.12.30
+  - python=3.8
+  - matplotlib=3.2.2
+  - pandas
+  - numpy
+  - ipywidgets
